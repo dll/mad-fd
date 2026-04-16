@@ -3,10 +3,25 @@
   "user_id": "2023210626",
   "user_name": "王建",
   "role": "student",
-  "synced_at": "2026-04-17T06:39:33.868196",
-  "last_active": "2026-04-17T06:39:33.841020",
+  "synced_at": "2026-04-17T06:53:08.571732",
+  "last_active": "2026-04-17T06:53:08.470967",
   "quiz_results": [],
   "learning_records": [],
   "wrong_answers": [],
-  "favorites": []
+  "favorites": [],
+  "feedback": [
+    {
+      "user_id": "2023210626",
+      "user_name": "王建",
+      "user_role": "student",
+      "page_name": null,
+      "content": "测试",
+      "suggestion": null,
+      "screenshot_path": "/data/user/0/com.edu.knowledge_graph_app/cache/feedback_screenshot_1776378525036.png",
+      "status": "pending",
+      "admin_reply": null,
+      "created_at": "2026-04-17T06:28:56.700746",
+      "resolved_at": null
+    }
+  ]
 }
