@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:knowledge_graph_app/presentation/pages/home/home_page.dart';
 import 'package:knowledge_graph_app/presentation/pages/login/login_page.dart';
@@ -6,8 +7,30 @@ import 'package:knowledge_graph_app/presentation/pages/login/login_page.dart';
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
 
+  // Mock SharedPreferences plugin channel
+  setUp(() {
+    TestDefaultBinaryMessengerBinding.instance.defaultBinaryMessenger
+        .setMockMethodCallHandler(
+      const MethodChannel('plugins.flutter.io/shared_preferences'),
+      (MethodCall methodCall) async {
+        if (methodCall.method == 'getAll') {
+          return <String, dynamic>{};
+        }
+        return null;
+      },
+    );
+  });
+
+  tearDown(() {
+    TestDefaultBinaryMessengerBinding.instance.defaultBinaryMessenger
+        .setMockMethodCallHandler(
+      const MethodChannel('plugins.flutter.io/shared_preferences'),
+      null,
+    );
+  });
+
   group('Golden screenshot tests', () {
-    Future<void> _pumpWithSurface(
+    Future<void> pumpWithSurface(
       WidgetTester tester,
       Widget child,
     ) async {
@@ -25,7 +48,7 @@ void main() {
     }
 
     testWidgets('login page golden', (WidgetTester tester) async {
-      await _pumpWithSurface(tester, const LoginPage());
+      await pumpWithSurface(tester, const LoginPage());
 
       await expectLater(
         find.byType(MaterialApp),
@@ -34,7 +57,7 @@ void main() {
     });
 
     testWidgets('home page golden', (WidgetTester tester) async {
-      await _pumpWithSurface(
+      await pumpWithSurface(
         tester,
         const HomePage(initialTabIndex: 0),
       );
