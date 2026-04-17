@@ -3,10 +3,60 @@
   "user_id": "2023211985",
   "user_name": "测试学生",
   "role": "student",
-  "synced_at": "2026-04-17T09:07:57.613745",
-  "last_active": "2026-04-17T09:07:57.597746",
-  "quiz_results": [],
-  "learning_records": [],
-  "wrong_answers": [],
+  "synced_at": "2026-04-17T09:17:57.609091",
+  "last_active": "2026-04-17T09:17:57.599103",
+  "quiz_results": [
+    {
+      "user_id": "2023211985",
+      "quiz_timestamp": "2026-04-17T09:13:22.431353",
+      "score": 80,
+      "num_correct": 4,
+      "num_total": 5,
+      "chapter": "第四章 小程序开发2",
+      "quiz_type": null,
+      "completed_at": "2026-04-17T09:13:22.431353"
+    },
+    {
+      "user_id": "2023211985",
+      "quiz_timestamp": "2026-04-17T09:11:47.200425",
+      "score": 80,
+      "num_correct": 4,
+      "num_total": 5,
+      "chapter": "第四章 小程序开发1",
+      "quiz_type": null,
+      "completed_at": "2026-04-17T09:11:47.200425"
+    }
+  ],
+  "learning_records": [
+    {
+      "user_id": "2023211985",
+      "node_id": "c_87",
+      "node_title": "小程序双线程模型",
+      "study_time": "2026-04-17T09:14:39.941144",
+      "completed_at": "2026-04-17T09:14:39.941144",
+      "created_at": "2026-04-17 01:14:39"
+    },
+    {
+      "user_id": "2023211985",
+      "node_id": "c_71",
+      "node_title": "MINA框架",
+      "study_time": "2026-04-17T09:09:53.420863",
+      "completed_at": "2026-04-17T09:09:53.420863",
+      "created_at": "2026-04-17 01:09:53"
+    }
+  ],
+  "wrong_answers": [
+    {
+      "user_id": "2023211985",
+      "question_id": 2308,
+      "question": "支付宝小程序的页面结构文件使用什么扩展名？",
+      "user_answer": ".wxml",
+      "correct_answer": ".axml",
+      "chapter": "第四章 小程序开发2",
+      "times": 1,
+      "wrong_time": "2026-04-17T09:12:47.356962",
+      "last_wrong_time": "2026-04-17T09:12:47.356962"
+    }
+  ],
   "favorites": []
 }
