@@ -3,11 +3,55 @@
   "user_id": "2023210624",
   "user_name": "汪明昊",
   "role": "student",
-  "synced_at": "2026-04-20T17:17:48.278552",
-  "last_active": "2026-04-20T17:17:48.278575",
-  "quiz_results": [],
+  "synced_at": "2026-04-20T17:20:48.273173",
+  "last_active": "2026-04-20T17:20:48.273194",
+  "quiz_results": [
+    {
+      "user_id": "2023210624",
+      "quiz_timestamp": "2026-04-20T17:20:02.189377",
+      "score": 100,
+      "num_correct": 5,
+      "num_total": 5,
+      "chapter": "第一章 移动应用开发技术体系1",
+      "quiz_type": null,
+      "completed_at": "2026-04-20T17:20:02.189393"
+    },
+    {
+      "user_id": "2023210624",
+      "quiz_timestamp": "2026-04-20T17:19:44.248871",
+      "score": 60,
+      "num_correct": 3,
+      "num_total": 5,
+      "chapter": "第一章 移动应用开发技术体系1",
+      "quiz_type": null,
+      "completed_at": "2026-04-20T17:19:44.248887"
+    }
+  ],
   "learning_records": [],
-  "wrong_answers": [],
+  "wrong_answers": [
+    {
+      "user_id": "2023210624",
+      "question_id": 2284,
+      "question": "以下哪个是移动应用开发中\"原生应用\"的主要特征？",
+      "user_answer": "使用HTML、CSS、JavaScript开发",
+      "correct_answer": "使用平台特定的编程语言和SDK开发",
+      "chapter": "第一章 移动应用开发技术体系1",
+      "times": 1,
+      "wrong_time": "2026-04-20T17:19:22.018373",
+      "last_wrong_time": "2026-04-20T17:19:22.018399"
+    },
+    {
+      "user_id": "2023210624",
+      "question_id": 2285,
+      "question": "以下哪个框架主要用于混合应用开发？",
+      "user_answer": "微信开发者工具",
+      "correct_answer": "React Native",
+      "chapter": "第一章 移动应用开发技术体系1",
+      "times": 1,
+      "wrong_time": "2026-04-20T17:19:31.922831",
+      "last_wrong_time": "2026-04-20T17:19:31.922846"
+    }
+  ],
   "favorites": [],
   "feedback": [],
   "learning_paths": [],
