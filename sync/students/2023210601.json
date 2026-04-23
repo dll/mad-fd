@@ -3,8 +3,8 @@
   "user_id": "2023210601",
   "user_name": "金正轩",
   "role": "student",
-  "synced_at": "2026-04-23T12:25:18.969255",
-  "last_active": "2026-04-23T12:25:18.969259",
+  "synced_at": "2026-04-23T12:26:31.023198",
+  "last_active": "2026-04-23T12:26:31.022199",
   "quiz_results": [],
   "learning_records": [],
   "wrong_answers": [],
@@ -27,8 +27,8 @@
       "status": "已提交",
       "submit_time": null,
       "tags": "[\"Kotlin\",\"Android\",\"SDK\"]",
-      "created_at": "2026-04-20T10:11:15.721621",
-      "updated_at": "2026-04-20T10:11:15.721626",
+      "created_at": "2026-04-18T16:18:03.807404",
+      "updated_at": "2026-04-18T16:18:03.807404",
       "project_id": null,
       "group_id": null,
       "video_url": "assets/videos/demo_2023210601.mp4",
@@ -54,7 +54,7 @@
       "user_role": "student",
       "content": "跨平台适配做得不错。",
       "parent_id": null,
-      "created_at": "2026-04-20T10:11:16.132521"
+      "created_at": "2026-04-18T16:18:05.848623"
     }
   ],
   "work_likes": [],
