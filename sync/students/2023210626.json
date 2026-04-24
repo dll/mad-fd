@@ -3,15 +3,34 @@
   "user_id": "2023210626",
   "user_name": "王建",
   "role": "student",
-  "synced_at": "2026-04-24T20:45:33.945565",
-  "last_active": "2026-04-24T20:45:33.945565",
+  "synced_at": "2026-04-24T20:47:49.237954",
+  "last_active": "2026-04-24T20:47:49.237954",
   "quiz_results": [],
   "learning_records": [],
   "wrong_answers": [],
   "favorites": [],
   "feedback": [],
   "learning_paths": [],
-  "lab_submissions": [],
+  "lab_submissions": [
+    {
+      "task_id": 4,
+      "user_id": "2023210626",
+      "content": "PDF实验报告：2023210626王建实验四 微信小程序开发.pdf",
+      "file_paths": "C:\\Users\\脆脆鲨\\Desktop\\2023210626王建实验四 微信小程序开发.pdf",
+      "file_names": "2023210626王建实验四 微信小程序开发.pdf",
+      "submit_time": "2026-04-24T20:47:49.224863",
+      "status": "已提交",
+      "score": null,
+      "feedback": null,
+      "scorer_id": null,
+      "scored_at": null,
+      "created_at": "2026-04-24T20:47:49.224863",
+      "updated_at": "2026-04-24T20:47:49.224863",
+      "ai_suspicion": 0.0,
+      "ai_evidence": null,
+      "teacher_confirmed": 0
+    }
+  ],
   "student_reports": [],
   "student_works": [
     {
