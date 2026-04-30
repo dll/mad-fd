@@ -3,9 +3,30 @@
   "user_id": "2023210600",
   "user_name": "金翔宇",
   "role": "student",
-  "synced_at": "2026-04-28T20:32:12.103364",
-  "last_active": "2026-04-28T20:32:12.103378",
-  "quiz_results": [],
+  "synced_at": "2026-04-30T18:00:51.423174",
+  "last_active": "2026-04-30T18:00:51.423182",
+  "quiz_results": [
+    {
+      "user_id": "2023210600",
+      "quiz_timestamp": "2026-04-28T20:40:56.624700",
+      "score": 100,
+      "num_correct": 5,
+      "num_total": 5,
+      "chapter": "第四章 小程序开发2",
+      "quiz_type": null,
+      "completed_at": "2026-04-28T20:40:56.624725"
+    },
+    {
+      "user_id": "2023210600",
+      "quiz_timestamp": "2026-04-28T20:36:47.841847",
+      "score": 100,
+      "num_correct": 5,
+      "num_total": 5,
+      "chapter": "第四章 小程序开发1",
+      "quiz_type": null,
+      "completed_at": "2026-04-28T20:36:47.841855"
+    }
+  ],
   "learning_records": [],
   "wrong_answers": [],
   "favorites": [],
