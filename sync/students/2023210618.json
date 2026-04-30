@@ -3,11 +3,55 @@
   "user_id": "2023210618",
   "user_name": "钱家澍",
   "role": "student",
-  "synced_at": "2026-04-28T23:42:48.669192",
-  "last_active": "2026-04-28T23:42:48.669200",
-  "quiz_results": [],
+  "synced_at": "2026-04-30T19:54:33.662394",
+  "last_active": "2026-04-30T19:54:33.662408",
+  "quiz_results": [
+    {
+      "user_id": "2023210618",
+      "quiz_timestamp": "2026-04-28T23:44:56.884971",
+      "score": 100,
+      "num_correct": 5,
+      "num_total": 5,
+      "chapter": "第四章 小程序开发2",
+      "quiz_type": null,
+      "completed_at": "2026-04-28T23:44:56.884997"
+    },
+    {
+      "user_id": "2023210618",
+      "quiz_timestamp": "2026-04-28T23:44:33.340813",
+      "score": 80,
+      "num_correct": 4,
+      "num_total": 5,
+      "chapter": "第四章 小程序开发2",
+      "quiz_type": null,
+      "completed_at": "2026-04-28T23:44:33.340838"
+    },
+    {
+      "user_id": "2023210618",
+      "quiz_timestamp": "2026-04-28T23:43:26.835275",
+      "score": 100,
+      "num_correct": 5,
+      "num_total": 5,
+      "chapter": "第四章 小程序开发1",
+      "quiz_type": null,
+      "completed_at": "2026-04-28T23:43:26.835291"
+    }
+  ],
   "learning_records": [],
-  "wrong_answers": [],
+  "wrong_answers": [
+    {
+      "user_id": "2023210618",
+      "question_id": 2308,
+      "question": "支付宝小程序的页面结构文件使用什么扩展名？",
+      "user_answer": ".wxml",
+      "correct_answer": ".axml",
+      "chapter": "第四章 小程序开发2",
+      "times": 1,
+      "wrong_time": "2026-04-28T23:44:22.426578",
+      "last_wrong_time": "2026-04-28T23:44:22.426621",
+      "explanation": "你把微信小程序和支付宝小程序的文件后缀搞混了。微信小程序的页面结构文件才用 `.wxml`，而支付宝小程序有自己独立的标记语言，对应后缀是 `.axml`。记住不同平台有各自的命名习惯就好。"
+    }
+  ],
   "favorites": [],
   "feedback": [],
   "learning_paths": [],
