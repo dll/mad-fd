@@ -3,8 +3,8 @@
   "user_id": "2023210614",
   "user_name": "庞勇涛",
   "role": "student",
-  "synced_at": "2026-04-24T15:28:14.857911",
-  "last_active": "2026-04-24T15:28:14.843515",
+  "synced_at": "2026-05-01T21:25:23.799216",
+  "last_active": "2026-05-01T21:25:23.770965",
   "quiz_results": [],
   "learning_records": [],
   "wrong_answers": [],
@@ -68,7 +68,14 @@
   ],
   "work_likes": [],
   "peer_reviews": [],
-  "notification_recipients": [],
+  "notification_recipients": [
+    {
+      "notification_id": 1,
+      "user_id": "2023210614",
+      "is_read": 0,
+      "read_at": null
+    }
+  ],
   "collaboration_messages": [],
   "contribution_scores": [],
   "classroom_messages": [],
