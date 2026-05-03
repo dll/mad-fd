@@ -3,11 +3,55 @@
   "user_id": "2023210599",
   "user_name": "姜少威",
   "role": "student",
-  "synced_at": "2026-05-01T20:32:51.566578",
-  "last_active": "2026-05-01T20:32:51.566598",
-  "quiz_results": [],
+  "synced_at": "2026-05-03T18:26:03.175672",
+  "last_active": "2026-05-03T18:26:03.175687",
+  "quiz_results": [
+    {
+      "user_id": "2023210599",
+      "quiz_timestamp": "2026-05-01T20:38:14.921767",
+      "score": 100,
+      "num_correct": 5,
+      "num_total": 5,
+      "chapter": "第四章 小程序开发2",
+      "quiz_type": null,
+      "completed_at": "2026-05-01T20:38:14.921827"
+    },
+    {
+      "user_id": "2023210599",
+      "quiz_timestamp": "2026-05-01T20:37:38.316793",
+      "score": 80,
+      "num_correct": 4,
+      "num_total": 5,
+      "chapter": "第四章 小程序开发2",
+      "quiz_type": null,
+      "completed_at": "2026-05-01T20:37:38.316812"
+    },
+    {
+      "user_id": "2023210599",
+      "quiz_timestamp": "2026-05-01T20:34:28.616045",
+      "score": 100,
+      "num_correct": 5,
+      "num_total": 5,
+      "chapter": "第四章 小程序开发1",
+      "quiz_type": null,
+      "completed_at": "2026-05-01T20:34:28.616103"
+    }
+  ],
   "learning_records": [],
-  "wrong_answers": [],
+  "wrong_answers": [
+    {
+      "user_id": "2023210599",
+      "question_id": 2308,
+      "question": "支付宝小程序的页面结构文件使用什么扩展名？",
+      "user_answer": ".wxml",
+      "correct_answer": ".axml",
+      "chapter": "第四章 小程序开发2",
+      "times": 1,
+      "wrong_time": "2026-05-01T20:36:46.816379",
+      "last_wrong_time": "2026-05-01T20:36:46.816396",
+      "explanation": "支付宝小程序基于阿里系框架，页面结构文件统一使用 **.axml** 扩展名。你写的 **.wxml** 是微信小程序专用的文件格式，两者框架不同，不能混用。记住：阿里系用 .axml，腾讯系用 .wxml，就像不同品牌的手机充电器不通用一样。"
+    }
+  ],
   "favorites": [],
   "feedback": [],
   "learning_paths": [],
