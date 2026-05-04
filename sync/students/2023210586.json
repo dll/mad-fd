@@ -3,9 +3,20 @@
   "user_id": "2023210586",
   "user_name": "丁陆",
   "role": "student",
-  "synced_at": "2026-05-01T20:39:33.088115",
-  "last_active": "2026-05-01T20:39:33.088118",
-  "quiz_results": [],
+  "synced_at": "2026-05-04T16:22:12.633320",
+  "last_active": "2026-05-04T16:22:12.633342",
+  "quiz_results": [
+    {
+      "user_id": "2023210586",
+      "quiz_timestamp": "2026-05-01T20:42:14.418286",
+      "score": 100,
+      "num_correct": 5,
+      "num_total": 5,
+      "chapter": "第四章 小程序开发2",
+      "quiz_type": null,
+      "completed_at": "2026-05-01T20:42:14.418296"
+    }
+  ],
   "learning_records": [],
   "wrong_answers": [],
   "favorites": [],
