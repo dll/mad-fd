@@ -3,8 +3,8 @@
   "user_id": "2023210624",
   "user_name": "汪明昊",
   "role": "student",
-  "synced_at": "2026-05-05T18:41:37.605184",
-  "last_active": "2026-05-05T18:41:37.594536",
+  "synced_at": "2026-05-05T18:42:14.881022",
+  "last_active": "2026-05-05T18:42:14.857183",
   "quiz_results": [
     {
       "user_id": "2023210624",
@@ -154,7 +154,26 @@
   "favorites": [],
   "feedback": [],
   "learning_paths": [],
-  "lab_submissions": [],
+  "lab_submissions": [
+    {
+      "task_id": 1,
+      "user_id": "2023210624",
+      "content": "PDF实验报告：2023210624汪明昊实验一 开发环境搭建.pdf",
+      "file_paths": "D:\\克隆仓库\\cg3ehlas\\实验报告\\实验一\\2023210624汪明昊实验一 开发环境搭建.pdf",
+      "file_names": "2023210624汪明昊实验一 开发环境搭建.pdf",
+      "submit_time": "2026-05-05T18:42:14.836676",
+      "status": "已提交",
+      "score": null,
+      "feedback": null,
+      "scorer_id": null,
+      "scored_at": null,
+      "created_at": "2026-05-05T18:42:14.836676",
+      "updated_at": "2026-05-05T18:42:14.836676",
+      "ai_suspicion": 0.0,
+      "ai_evidence": null,
+      "teacher_confirmed": 0
+    }
+  ],
   "student_reports": [],
   "student_works": [
     {
