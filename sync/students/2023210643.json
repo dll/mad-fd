@@ -3,8 +3,8 @@
   "user_id": "2023210643",
   "user_name": "张海天",
   "role": "student",
-  "synced_at": "2026-05-08T10:28:48.296300",
-  "last_active": "2026-05-08T10:28:48.296300",
+  "synced_at": "2026-05-08T10:29:19.522159",
+  "last_active": "2026-05-08T10:29:19.522159",
   "quiz_results": [],
   "learning_records": [],
   "wrong_answers": [],
@@ -83,6 +83,24 @@
     }
   ],
   "lab_submissions": [
+    {
+      "task_id": 5,
+      "user_id": "2023210643",
+      "content": "PDF实验报告：2023210643张海天实验五 鸿蒙多端应用开发.pdf",
+      "file_paths": "E:\\Desktop\\HarmonyWeatherApp\\docs\\2023210643张海天实验五 鸿蒙多端应用开发.pdf",
+      "file_names": "2023210643张海天实验五 鸿蒙多端应用开发.pdf",
+      "submit_time": "2026-05-08T10:29:19.508375",
+      "status": "已提交",
+      "score": null,
+      "feedback": null,
+      "scorer_id": null,
+      "scored_at": null,
+      "created_at": "2026-05-08T10:29:19.508375",
+      "updated_at": "2026-05-08T10:29:19.508375",
+      "ai_suspicion": 0.0,
+      "ai_evidence": null,
+      "teacher_confirmed": 0
+    },
     {
       "task_id": 4,
       "user_id": "2023210643",
