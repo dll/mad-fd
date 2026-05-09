@@ -3,11 +3,45 @@
   "user_id": "2023210580",
   "user_name": "陈琪琪",
   "role": "student",
-  "synced_at": "2026-04-30T20:10:31.311860",
-  "last_active": "2026-04-30T20:10:31.311860",
-  "quiz_results": [],
+  "synced_at": "2026-05-09T10:18:37.789517",
+  "last_active": "2026-05-09T10:18:37.789531",
+  "quiz_results": [
+    {
+      "user_id": "2023210580",
+      "quiz_timestamp": "2026-04-30T20:08:44.867943",
+      "score": 100,
+      "num_correct": 5,
+      "num_total": 5,
+      "chapter": "第四章 小程序开发2",
+      "quiz_type": null,
+      "completed_at": "2026-04-30T20:08:44.868033"
+    },
+    {
+      "user_id": "2023210580",
+      "quiz_timestamp": "2026-04-30T20:06:41.008812",
+      "score": 100,
+      "num_correct": 5,
+      "num_total": 5,
+      "chapter": "第四章 小程序开发1",
+      "quiz_type": null,
+      "completed_at": "2026-04-30T20:06:41.008871"
+    }
+  ],
   "learning_records": [],
-  "wrong_answers": [],
+  "wrong_answers": [
+    {
+      "user_id": "2023210580",
+      "question_id": 2308,
+      "question": "支付宝小程序的页面结构文件使用什么扩展名？",
+      "user_answer": ".wxml",
+      "correct_answer": ".axml",
+      "chapter": "第四章 小程序开发2",
+      "times": 1,
+      "wrong_time": "2026-04-30T20:07:52.412406",
+      "last_wrong_time": "2026-04-30T20:07:52.412425",
+      "explanation": "你记混了不同平台的规范。`.wxml` 是微信小程序的页面结构文件后缀，而支付宝小程序使用的是 `.axml`，两者虽然功能类似，但名称和部分语法都有区别，开发时不能互换。"
+    }
+  ],
   "favorites": [],
   "feedback": [],
   "learning_paths": [],
@@ -34,7 +68,7 @@
       "task_id": 3,
       "user_id": "2023210580",
       "content": "PDF实验报告：2023210580陈琪琪实验三 跨平台应用开发.pdf",
-      "file_paths": "C:\\Users\\27773\\Documents/sync_files/2023210580/2023210580陈琪琪实验三 跨平台应用开发.pdf",
+      "file_paths": "/data/user/0/cn.edu.chzu.madkg/app_flutter/sync_files/2023210580/2023210580陈琪琪实验三 跨平台应用开发.pdf",
       "file_names": "2023210580陈琪琪实验三 跨平台应用开发.pdf",
       "submit_time": "2026-04-24T15:16:35.143845",
       "status": "已提交",
@@ -52,7 +86,7 @@
       "task_id": 2,
       "user_id": "2023210580",
       "content": "PDF实验报告：2023210580陈琪琪实验二 原生应用开发.pdf",
-      "file_paths": "C:\\Users\\27773\\Documents/sync_files/2023210580/2023210580陈琪琪实验二 原生应用开发.pdf",
+      "file_paths": "/data/user/0/cn.edu.chzu.madkg/app_flutter/sync_files/2023210580/2023210580陈琪琪实验二 原生应用开发.pdf",
       "file_names": "2023210580陈琪琪实验二 原生应用开发.pdf",
       "submit_time": "2026-04-24T15:16:15.267001",
       "status": "已提交",
