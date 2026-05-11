@@ -3,8 +3,8 @@
   "user_id": "2020211613",
   "user_name": "张顺",
   "role": "student",
-  "synced_at": "2026-05-11T10:15:47.543396",
-  "last_active": "2026-05-11T10:15:47.543420",
+  "synced_at": "2026-05-11T10:16:58.439237",
+  "last_active": "2026-05-11T10:16:58.439252",
   "quiz_results": [
     {
       "user_id": "2020211613",
@@ -454,6 +454,42 @@
     },
     {
       "notification_id": 78,
+      "user_id": "2020211613",
+      "is_read": 0,
+      "read_at": null
+    },
+    {
+      "notification_id": 135,
+      "user_id": "2020211613",
+      "is_read": 0,
+      "read_at": null
+    },
+    {
+      "notification_id": 136,
+      "user_id": "2020211613",
+      "is_read": 0,
+      "read_at": null
+    },
+    {
+      "notification_id": 137,
+      "user_id": "2020211613",
+      "is_read": 0,
+      "read_at": null
+    },
+    {
+      "notification_id": 138,
+      "user_id": "2020211613",
+      "is_read": 0,
+      "read_at": null
+    },
+    {
+      "notification_id": 139,
+      "user_id": "2020211613",
+      "is_read": 0,
+      "read_at": null
+    },
+    {
+      "notification_id": 140,
       "user_id": "2020211613",
       "is_read": 0,
       "read_at": null
