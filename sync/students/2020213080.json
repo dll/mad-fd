@@ -3,9 +3,19 @@
   "user_id": "2020213080",
   "user_name": "倪洋",
   "role": "student",
-  "synced_at": "2026-05-10T13:31:42.923997",
-  "last_active": "2026-05-10T13:31:42.924007",
+  "synced_at": "2026-05-11T10:27:50.492423",
+  "last_active": "2026-05-11T10:27:50.492437",
   "quiz_results": [
+    {
+      "user_id": "2020213080",
+      "quiz_timestamp": "2026-05-10T13:32:31.420",
+      "score": 100,
+      "num_correct": 1,
+      "num_total": 1,
+      "chapter": "第五章 华为多端应用开发3",
+      "quiz_type": null,
+      "completed_at": "2026-05-10T13:32:31.420024"
+    },
     {
       "user_id": "2020213080",
       "quiz_timestamp": "2026-05-10T13:31:06.625258",
@@ -28,7 +38,19 @@
     }
   ],
   "learning_records": [],
-  "wrong_answers": [],
+  "wrong_answers": [
+    {
+      "user_id": "2020213080",
+      "question_id": 2288,
+      "question": "分布式系统中，数据一致性最常面临的挑战是什么？",
+      "user_answer": "开发工具兼容性问题",
+      "correct_answer": "网络延迟导致的时序问题",
+      "chapter": "第五章 华为多端应用开发3",
+      "times": 1,
+      "wrong_time": "2026-05-10T13:32:19.795970",
+      "last_wrong_time": "2026-05-10T13:32:19.796002"
+    }
+  ],
   "favorites": [],
   "feedback": [],
   "learning_paths": [],
