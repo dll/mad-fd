@@ -3,8 +3,8 @@
   "user_id": "2023210600",
   "user_name": "金翔宇",
   "role": "student",
-  "synced_at": "2026-05-09T11:13:11.783928",
-  "last_active": "2026-05-09T11:13:11.783941",
+  "synced_at": "2026-05-12T10:34:55.433401",
+  "last_active": "2026-05-12T10:34:55.433410",
   "quiz_results": [
     {
       "user_id": "2023210600",
@@ -28,7 +28,20 @@
     }
   ],
   "learning_records": [],
-  "wrong_answers": [],
+  "wrong_answers": [
+    {
+      "user_id": "2023210600",
+      "question_id": 2274,
+      "question": "TypeScript相比JavaScript的主要优势是什么？",
+      "user_answer": "运行速度更快",
+      "correct_answer": "提供静态类型检查",
+      "chapter": "第五章 华为多端应用开发2",
+      "times": 1,
+      "wrong_time": "2026-05-09T11:14:06.455362",
+      "last_wrong_time": "2026-05-09T11:14:06.455378",
+      "explanation": "正确答案强调静态类型检查，是因为 TypeScript 在编写代码时就能发现类型错误，趁早避免大量运行时 bug，提升代码的可维护性和开发效率。而学生答案“运行速度更快”并不准确，因为 TypeScript 最终会编译成普通的 JavaScript 去执行，运行时的性能基本一致，并没有本质上的速度提升。"
+    }
+  ],
   "favorites": [],
   "feedback": [],
   "learning_paths": [],
