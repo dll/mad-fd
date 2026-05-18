@@ -3,14 +3,85 @@
   "user_id": "2023210613",
   "user_name": "倪俊杰",
   "role": "student",
-  "synced_at": "2026-05-18T17:51:15.801481",
-  "last_active": "2026-05-18T17:51:15.801481",
+  "synced_at": "2026-05-18T18:01:15.818495",
+  "last_active": "2026-05-18T18:01:15.818495",
   "quiz_results": [],
   "learning_records": [],
   "wrong_answers": [],
   "favorites": [],
   "feedback": [],
-  "learning_paths": [],
+  "learning_paths": [
+    {
+      "user_id": "2023210613",
+      "title": "综合项目实践 学习路径",
+      "description": "自动推荐 · 3个概念 · 基于前置关系链",
+      "node_ids": "c_129,c_114,c_122",
+      "progress": 0.0,
+      "status": "active",
+      "created_at": "2026-05-18T17:51:32.728087",
+      "updated_at": "2026-05-18T17:51:32.728087"
+    },
+    {
+      "user_id": "2023210613",
+      "title": "应用架构 学习路径",
+      "description": "自动推荐 · 2个概念 · 基于前置关系链",
+      "node_ids": "c_129,c_114",
+      "progress": 0.0,
+      "status": "active",
+      "created_at": "2026-05-18T17:51:32.725083",
+      "updated_at": "2026-05-18T17:51:32.725083"
+    },
+    {
+      "user_id": "2023210613",
+      "title": "ArkTS 学习路径",
+      "description": "自动推荐 · 2个概念 · 基于前置关系链",
+      "node_ids": "c_93,c_95",
+      "progress": 0.0,
+      "status": "active",
+      "created_at": "2026-05-18T17:51:32.723569",
+      "updated_at": "2026-05-18T17:51:32.723569"
+    },
+    {
+      "user_id": "2023210613",
+      "title": "Dart语言 学习路径",
+      "description": "自动推荐 · 2个概念 · 基于前置关系链",
+      "node_ids": "c_1,c_46",
+      "progress": 0.0,
+      "status": "active",
+      "created_at": "2026-05-18T17:51:32.720002",
+      "updated_at": "2026-05-18T17:51:32.720002"
+    },
+    {
+      "user_id": "2023210613",
+      "title": "Swift语言 学习路径",
+      "description": "自动推荐 · 2个概念 · 基于前置关系链",
+      "node_ids": "c_1,c_34",
+      "progress": 0.0,
+      "status": "active",
+      "created_at": "2026-05-18T17:51:32.718229",
+      "updated_at": "2026-05-18T17:51:32.718229"
+    },
+    {
+      "user_id": "2023210613",
+      "title": "Kotlin语言 学习路径",
+      "description": "自动推荐 · 2个概念 · 基于前置关系链",
+      "node_ids": "c_1,c_28",
+      "progress": 0.0,
+      "status": "active",
+      "created_at": "2026-05-18T17:51:32.715699",
+      "updated_at": "2026-05-18T17:51:32.715699"
+    },
+    {
+      "user_id": "2023210613",
+      "title": "Jetpack Compose 学习路径",
+      "description": "自动推荐 · 3个概念 · 基于前置关系链",
+      "node_ids": "c_1,c_28,c_27",
+      "progress": 0.0,
+      "status": "active",
+      "created_at": "2026-05-18T17:51:32.708300",
+      "updated_at": "2026-05-18T17:51:32.708300"
+    }
+  ],
   "lab_submissions": [],
   "student_reports": [],
   "student_works": [],
