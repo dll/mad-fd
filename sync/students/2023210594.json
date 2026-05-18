@@ -3,9 +3,40 @@
   "user_id": "2023210594",
   "user_name": "赫宇豪",
   "role": "student",
-  "synced_at": "2026-05-09T18:50:01.920026",
-  "last_active": "2026-05-09T18:50:01.920039",
-  "quiz_results": [],
+  "synced_at": "2026-05-18T17:35:26.373723",
+  "last_active": "2026-05-18T17:35:26.373735",
+  "quiz_results": [
+    {
+      "user_id": "2023210594",
+      "quiz_timestamp": "2026-05-09T18:53:35.042374",
+      "score": 100,
+      "num_correct": 1,
+      "num_total": 1,
+      "chapter": "第五章 华为多端应用开发3",
+      "quiz_type": null,
+      "completed_at": "2026-05-09T18:53:35.042397"
+    },
+    {
+      "user_id": "2023210594",
+      "quiz_timestamp": "2026-05-09T18:53:15.752787",
+      "score": 100,
+      "num_correct": 3,
+      "num_total": 3,
+      "chapter": "第五章 华为多端应用开发2",
+      "quiz_type": null,
+      "completed_at": "2026-05-09T18:53:15.752817"
+    },
+    {
+      "user_id": "2023210594",
+      "quiz_timestamp": "2026-05-09T18:52:27.963078",
+      "score": 100,
+      "num_correct": 5,
+      "num_total": 5,
+      "chapter": "第五章 华为多端应用开发1",
+      "quiz_type": null,
+      "completed_at": "2026-05-09T18:52:27.963101"
+    }
+  ],
   "learning_records": [],
   "wrong_answers": [],
   "favorites": [],
