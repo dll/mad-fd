@@ -3,8 +3,8 @@
   "user_id": "2020213080",
   "user_name": "倪洋",
   "role": "student",
-  "synced_at": "2026-05-19T23:06:37.845489",
-  "last_active": "2026-05-19T23:06:37.845491",
+  "synced_at": "2026-05-22T00:41:57.979391",
+  "last_active": "2026-05-22T00:41:57.979403",
   "quiz_results": [
     {
       "user_id": "2020213080",
@@ -60,7 +60,7 @@
       "task_id": 3,
       "user_id": "2020213080",
       "content": "PDF实验报告：实验三_UniApp实验报告.pdf",
-      "file_paths": "/data/user/0/cn.edu.chzu.madkg/cache/file_picker/1778989363977/实验三_UniApp实验报告.pdf",
+      "file_paths": "/data/user/0/cn.edu.chzu.madkg/app_flutter/sync_files/2020213080/实验三_UniApp实验报告.pdf",
       "file_names": "实验三_UniApp实验报告.pdf",
       "submit_time": "2026-05-17T11:42:45.128254",
       "status": "已提交",
@@ -96,7 +96,7 @@
       "task_id": 1,
       "user_id": "2020213080",
       "content": "PDF实验报告：Uniapp 开发环境搭建.pdf",
-      "file_paths": "/data/user/0/cn.edu.chzu.madkg/cache/file_picker/1777648537711/Uniapp 开发环境搭建.pdf",
+      "file_paths": "/data/user/0/cn.edu.chzu.madkg/app_flutter/sync_files/2020213080/Uniapp 开发环境搭建.pdf",
       "file_names": "Uniapp 开发环境搭建.pdf",
       "submit_time": "2026-05-01T23:15:39.137101",
       "status": "已提交",
