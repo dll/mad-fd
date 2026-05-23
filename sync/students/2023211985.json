@@ -3,8 +3,8 @@
   "user_id": "2023211985",
   "user_name": "测试学生",
   "role": "student",
-  "synced_at": "2026-05-24T07:32:24.828846",
-  "last_active": "2026-05-24T07:32:24.816960",
+  "synced_at": "2026-05-24T07:38:20.828629",
+  "last_active": "2026-05-24T07:38:20.811098",
   "quiz_results": [
     {
       "user_id": "2023211985",
@@ -38,6 +38,30 @@
     }
   ],
   "learning_records": [
+    {
+      "user_id": "2023211985",
+      "node_id": "deep-第5章-3",
+      "node_title": "深度-第5章-3",
+      "study_time": "30",
+      "completed_at": "2026-05-24T07:37:22.683562",
+      "created_at": "2026-05-23 23:37:22"
+    },
+    {
+      "user_id": "2023211985",
+      "node_id": "deep-第5章-2",
+      "node_title": "深度-第5章-2",
+      "study_time": "30",
+      "completed_at": "2026-05-24T07:37:18.658349",
+      "created_at": "2026-05-23 23:37:18"
+    },
+    {
+      "user_id": "2023211985",
+      "node_id": "c_93",
+      "node_title": "HarmonyOS NEXT",
+      "study_time": "2026-05-24T07:34:17.698285",
+      "completed_at": "2026-05-24T07:34:17.698285",
+      "created_at": "2026-05-23 23:34:17"
+    },
     {
       "user_id": "2023211985",
       "node_id": "c_87",
