@@ -3,8 +3,8 @@
   "user_id": "2023210617",
   "user_name": "钱皓",
   "role": "student",
-  "synced_at": "2026-05-24T21:15:00.468863",
-  "last_active": "2026-05-24T21:15:00.464654",
+  "synced_at": "2026-05-25T09:32:22.498256",
+  "last_active": "2026-05-25T09:32:22.494860",
   "quiz_results": [
     {
       "user_id": "2023210617",
@@ -252,7 +252,6 @@
   "checkin_records": [],
   "work_comments": [],
   "work_likes": [],
-  "notification_recipients": [],
   "work_views": [],
   "peer_reviews": [],
   "collaboration_messages": [],
