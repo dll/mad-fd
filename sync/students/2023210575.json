@@ -3,8 +3,8 @@
   "user_id": "2023210575",
   "user_name": "安豪",
   "role": "student",
-  "synced_at": "2026-05-27T12:59:23.268048",
-  "last_active": "2026-05-27T12:59:23.258344",
+  "synced_at": "2026-05-27T13:00:41.016344",
+  "last_active": "2026-05-27T13:00:40.973464",
   "quiz_results": [
     {
       "user_id": "2023210575",
@@ -33,6 +33,24 @@
   "feedback": [],
   "learning_paths": [],
   "lab_submissions": [
+    {
+      "task_id": 2,
+      "user_id": "2023210575",
+      "content": "PDF实验报告：2023210575安豪实验二 原生应用开发.pdf\n\n--- 报告正文（自动提取）---\n实验二原生应用开发.md2026-03-281 / 8\n实验二：原生应用开发实验报告一、实验基本信息实验编号：d20301035102、d20301009202 实验名称：原生应用开发学时分配：4学时实验类型：验证型负责平台：iOS（SwiftUI）姓名：安豪学号：2023210575班级：软件工程23级1班实验日期：2026年3月28日实验目标使用SwiftUI实现智慧校园登录模块，包括输入验证、页面跳转和数据传递功能，并添加个人信息管理功能。项目结构\nIosDemo/ ├── IosDemo/ │   ├── IosDemoApp.swift        # 应用入口 │   ├── ContentView.swift       # 登录页面 │   ├── ProfileView.swift       # 个人信息页面 │   └── Assets.xcassets/ └── IosDemo.xcodeproj\n核心代码实现1. 应用入口 (IosDemoApp.swift)\n@main struct IosDemoApp: App {     var body: some Scene {         WindowGroup {             LoginView()         }     } }\n2. 登录页面 (ContentView.swift)\n实验二原生应用开发\n.md\n2026-03-28\n2\n/\n8\nclass\nLoginViewModel\n:\nObservableObject\n{\n@\nPublished\nvar\nusername =\n\"\"\n@\nPublished\nvar\npassword =\n\"\"\n@\nPublished\nvar\nisLoading =\nfalse\n@\nPublished\nvar\nisLoggedIn =\nfalse\nfunc\nlogin\n()\n{\nguard\n!username.isEmpty\nelse\n{\nalertMessage =\n\"\n请输入用户名\n\"\nshowAlert =\ntrue\nreturn\n}\nguard\n!password.isEmpty\nelse\n{\nalertMessage =\n\"\n请输入密码\n\"\nshowAlert =\ntrue\nreturn\n}\nisLoading =\ntrue\nDispatchQueue\n.main.asyncAfter(deadline: .now() +\n1.5\n) {\nif\nself\n.password ==\n\"123456\"\n{\nself\n.isLoggedIn =\ntrue\n}\n}\n}\n}\n3.\n个人信息页面\n(ProfileView.swift)\nstruct\nUserProfile\n:\nCodable\n{\nvar\nnickname =\n\"\"\nvar\nstudentId =\n\"\"\nvar\nphone =\n\"\"\nvar\nemail =\n\"\"\nvar\ngender =\n\"\n保密\n\"\nvar\nbio =\n\"\"\n}\nclass\nProfileViewModel\n:\nObservableObject\n{\n@\nPublished\nvar\nprofile =\nUserProfile\n()\n@\nPublished\nvar\nisEditing =\nfalse\nfunc\nsaveProfile\n()\n{\nif\nlet\nencoded =\ntry\n?\nJSONEncoder\n().encode(profile) {\nUserDefaults\n.standard.\nset\n(encoded, forKey:\n\"userProfile\"\n)\n}\n}\n}\n实验二原生应用开发\n.md\n2026-03-28\n3\n/\n8\nPlantUML\n图表\n1.\n应用框架图\n2.\n类图\n3.\n完整流程顺序图\n实验二原生应用开发\n.md\n2026-03-28\n4\n/\n8\n实验截图位置\n截图\n1\n：登录页面\n截图\n2\n：输入验证\n实验二原生应用开发\n.md\n2026-03-28\n5\n/\n8\n截图\n3\n：登录成功\n截图\n4\n：个人信息页面\n实验二原生应用开发\n.md\n2026-03-28\n6\n/\n8\n截图\n5\n：个人信息编辑\n实验二原生应用开发\n.md\n2026-03-28\n7\n/\n8\n截图\n6\n：保存成功提示\n测试用例\n测试项\n输入值\n预期结果\n空密码\n用户名\n: \"admin\",\n密码\n: \"\"\n显示\n\"\n请输入密码\n\"\n错误\n错误密码\n用户名\n: \"admin\",\n密码\n: \"123\"\n显示\n\"\n密码错误\n\"\n提示\n正确登录\n用户名\n: \"admin\",\n密码\n: \"123456\"\n成功跳转到个人信息页面\n编辑个人信息\n修改昵称和学号\n信息更新成功并保存\n取消编辑\n修改后点击取消\n恢复原始信息\n平台差异对比\n对比项\nAndroid\niOS\n开发语言\nKotlin\nSwift\nUI\n框架\nXML/Compose\nSwiftUI\n实验二原生应用开发\n.md\n2026-03-28\n8\n/\n8\n对比项\nAndroid\niOS\n页面跳转\nIntent\nNavigationLink\n数据传递\nIntent.putExtra\n参数传递\n状态管理\n成员变量\n@Published/@State\n布局方式\n线性布局\n/\n约束布局\nVStack/HStack\n表单编辑\nEditText\nTextField\n数据持久化\nSharedPreferences\nUserDefaults\n异步处理\nCoroutines\nDispatchQueue\n实验总结\n1\n.\n功能实现\n：完成了\niOS\n登录页面的开发，包括输入验证、异步登录逻辑、页面跳转和个人信息管理功能\n2\n.\n技术要点\n：\nMVVM\n架构模式、\nSwiftUI\n状态管理、\nNavigation\n导航、\nUserDefaults\n数据持久化\n3\n.\n学习收获\n：理解了\niOS\n原生开发的基本流程和\nSwiftUI\n框架的使用，掌握了\nMVVM\n架构在\nSwiftUI\n中的应用\n4\n.\n平台特色\n：体验了\niOS\n特有的界面设计风格和开发模式，学习了\n@Published\n和\n@ObservedObject\n的使用\n",
+      "file_paths": "C:\\Users\\安豪\\Desktop\\大三下实验图片\\移动应用开发\\2023210575安豪实验二 原生应用开发.pdf",
+      "file_names": "2023210575安豪实验二 原生应用开发.pdf",
+      "submit_time": "2026-05-27T13:00:40.961005",
+      "status": "已提交",
+      "score": null,
+      "feedback": null,
+      "scorer_id": null,
+      "scored_at": null,
+      "created_at": "2026-05-02T23:11:16.654902",
+      "updated_at": "2026-05-27T13:00:40.961005",
+      "ai_suspicion": 0.0,
+      "ai_evidence": null,
+      "teacher_confirmed": 0
+    },
     {
       "task_id": 1,
       "user_id": "2023210575",
@@ -101,24 +119,6 @@
       "scored_at": null,
       "created_at": "2026-05-02T23:15:20.325564",
       "updated_at": "2026-05-02T23:15:20.325564",
-      "ai_suspicion": 0.0,
-      "ai_evidence": null,
-      "teacher_confirmed": 0
-    },
-    {
-      "task_id": 2,
-      "user_id": "2023210575",
-      "content": "PDF实验报告：2023210575安豪实验二 原生应用开发.pdf",
-      "file_paths": "D:\\下载\\2023210575安豪实验二 原生应用开发.pdf",
-      "file_names": "2023210575安豪实验二 原生应用开发.pdf",
-      "submit_time": "2026-05-02T23:11:16.654902",
-      "status": "已提交",
-      "score": null,
-      "feedback": null,
-      "scorer_id": null,
-      "scored_at": null,
-      "created_at": "2026-05-02T23:11:16.654902",
-      "updated_at": "2026-05-02T23:11:16.654902",
       "ai_suspicion": 0.0,
       "ai_evidence": null,
       "teacher_confirmed": 0
