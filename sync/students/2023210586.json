@@ -3,8 +3,8 @@
   "user_id": "2023210586",
   "user_name": "丁陆",
   "role": "student",
-  "synced_at": "2026-05-22T19:54:37.211682",
-  "last_active": "2026-05-22T19:54:37.204313",
+  "synced_at": "2026-05-29T21:15:14.644351",
+  "last_active": "2026-05-29T21:15:14.641707",
   "quiz_results": [
     {
       "user_id": "2023210586",
@@ -117,14 +117,6 @@
   "checkin_records": [],
   "work_comments": [],
   "work_likes": [],
-  "notification_recipients": [
-    {
-      "notification_id": 1,
-      "user_id": "2023210586",
-      "is_read": 0,
-      "read_at": null
-    }
-  ],
   "work_views": [],
   "peer_reviews": [],
   "collaboration_messages": [],
