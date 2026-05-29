@@ -3,8 +3,8 @@
   "user_id": "2023210585",
   "user_name": "崔浩宇",
   "role": "student",
-  "synced_at": "2026-05-28T17:59:23.611140",
-  "last_active": "2026-05-28T17:59:23.611140",
+  "synced_at": "2026-05-29T09:29:35.599456",
+  "last_active": "2026-05-29T09:29:35.599456",
   "quiz_results": [
     {
       "user_id": "2023210585",
@@ -55,7 +55,7 @@
       "task_id": 1,
       "user_id": "2023210585",
       "content": "PDF实验报告：2023210585崔浩宇实验一 开发环境搭建.pdf",
-      "file_paths": "D:\\Desktop\\2023210585崔浩宇实验一 开发环境搭建.pdf",
+      "file_paths": "D:\\Document/sync_files/2023210585/2023210585崔浩宇实验一 开发环境搭建.pdf",
       "file_names": "2023210585崔浩宇实验一 开发环境搭建.pdf",
       "submit_time": "2026-05-28T17:40:16.745916",
       "status": "已提交",
