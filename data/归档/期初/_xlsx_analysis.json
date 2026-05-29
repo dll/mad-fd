@@ -1,0 +1,1672 @@
+[
+  {
+    "file": "教学课表_刘东良.xlsx",
+    "rows_total": 137,
+    "cols": 10,
+    "headers": [
+      "类型",
+      "班级",
+      "课程名称",
+      "日期",
+      "周",
+      "星期",
+      "课节",
+      "指导教师",
+      "主讲内容",
+      "地点"
+    ],
+    "course_names": [
+      {
+        "row": 2,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 3,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 4,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 5,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 6,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 7,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 8,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 9,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 10,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 11,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 12,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 13,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 14,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 15,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 16,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 17,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 18,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 19,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 20,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 21,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 22,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 23,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 24,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 25,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 26,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 27,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 28,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 29,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 30,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 31,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 32,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 33,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 34,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 35,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 36,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 37,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 38,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 39,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 40,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 41,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 42,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 43,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 44,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 45,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 46,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 47,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 48,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 49,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 50,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 51,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 52,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 53,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 54,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 55,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 56,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 57,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 58,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 59,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 60,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 61,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 62,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 63,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 64,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 65,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 66,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 67,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 68,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 69,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 70,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 71,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 72,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 73,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 74,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 75,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 76,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 77,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 78,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 79,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 80,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 81,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 82,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 83,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 84,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 85,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 86,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 87,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 88,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 89,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 90,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 91,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 92,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 93,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 94,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 95,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 96,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 97,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 98,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 99,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 100,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 101,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 102,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 103,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 104,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 105,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 106,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 107,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 108,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 109,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 110,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 111,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 112,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 113,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 114,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 115,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 116,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 117,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 118,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 119,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 120,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 121,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 122,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 123,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 124,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 125,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 126,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 127,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 128,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 129,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 130,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 131,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 132,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 133,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 134,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 135,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 136,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 137,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      }
+    ]
+  },
+  {
+    "file": "教师“刘东良”的课表3.xlsx",
+    "rows_total": 137,
+    "cols": 10,
+    "headers": [
+      "类型",
+      "班级",
+      "课程名称",
+      "日期",
+      "周",
+      "星期",
+      "课节",
+      "指导教师",
+      "主讲内容",
+      "地点"
+    ],
+    "course_names": [
+      {
+        "row": 2,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 3,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 4,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 5,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 6,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 7,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 8,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 9,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 10,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 11,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 12,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 13,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 14,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 15,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 16,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 17,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 18,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 19,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 20,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 21,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 22,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 23,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 24,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 25,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 26,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 27,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 28,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 29,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 30,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 31,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 32,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 33,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 34,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 35,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 36,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 37,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 38,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 39,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 40,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 41,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 42,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 43,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 44,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 45,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 46,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 47,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 48,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 49,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 50,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 51,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 52,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 53,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 54,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 55,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 56,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 57,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 58,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 59,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 60,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 61,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 62,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 63,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 64,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 65,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 66,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 67,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 68,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 69,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 70,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 71,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 72,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 73,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 74,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 75,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 76,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 77,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 78,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 79,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 80,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 81,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 82,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 83,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 84,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 85,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 86,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 87,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 88,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 89,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 90,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 91,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 92,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 93,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 94,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 95,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 96,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 97,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 98,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 99,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 100,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 101,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 102,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 103,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 104,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 105,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 106,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 107,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 108,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 109,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 110,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 111,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 112,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 113,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 114,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 115,
+        "val": "移动应用开发",
+        "repr": "'移动应用开发'",
+        "type": "str"
+      },
+      {
+        "row": 116,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 117,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 118,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 119,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 120,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 121,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 122,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 123,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 124,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 125,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 126,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 127,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 128,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 129,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 130,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 131,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 132,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      },
+      {
+        "row": 133,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 134,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 135,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 136,
+        "val": "程序设计基础（Python）",
+        "repr": "'程序设计基础（Python）'",
+        "type": "str"
+      },
+      {
+        "row": 137,
+        "val": "软件工程",
+        "repr": "'软件工程'",
+        "type": "str"
+      }
+    ]
+  }
+]

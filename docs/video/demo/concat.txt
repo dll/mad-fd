@@ -1,0 +1,6 @@
+file 'D:\FlutterProjects\knowledge_graph_app\video_output\demo_00_opening.mp4'
+file 'D:\FlutterProjects\knowledge_graph_app\video_output\demo_01_knowledge_graph.mp4'
+file 'D:\FlutterProjects\knowledge_graph_app\video_output\demo_02_ai_agents.mp4'
+file 'D:\FlutterProjects\knowledge_graph_app\video_output\demo_03_digital_twin.mp4'
+file 'D:\FlutterProjects\knowledge_graph_app\video_output\demo_04_multiplatform.mp4'
+file 'D:\FlutterProjects\knowledge_graph_app\video_output\demo_05_closing.mp4'
