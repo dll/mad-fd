@@ -3,8 +3,8 @@
   "user_id": "2023210652",
   "user_name": "周丽棉",
   "role": "student",
-  "synced_at": "2026-05-16T17:06:38.702536",
-  "last_active": "2026-05-16T17:06:38.690874",
+  "synced_at": "2026-05-30T14:32:12.210580",
+  "last_active": "2026-05-30T14:32:12.155033",
   "quiz_results": [],
   "learning_records": [],
   "wrong_answers": [],
@@ -63,8 +63,8 @@
     {
       "notification_id": 1,
       "user_id": "2023210652",
-      "is_read": 0,
-      "read_at": null
+      "is_read": 1,
+      "read_at": "2026-05-16T17:07:44.719228"
     }
   ],
   "collaboration_messages": [],
